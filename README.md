@@ -25,6 +25,7 @@ Ideal for sending short, real-time cues or lines to speakers, presenters, or per
 Modes
 
 Transmitter Mode: // #define RF433RX and enable Wi-Fi for Telnet messaging capability.
+
 Receiver Mode: #define RF433RX and disable Wi-Fi, converting the device into a dedicated message receiver that displays the messages on the M5StickCPlus.
 
 Configuration
